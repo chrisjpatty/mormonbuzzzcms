@@ -7,7 +7,7 @@ public_folder: /img
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Posts"
     folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -18,6 +18,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Facebook Link Image", name: "fbLinkImg, widget: "image"
 
   - name: "pages"
     label: "Pages"
