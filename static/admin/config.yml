@@ -18,7 +18,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Facebook Link Image", name: "fbLinkImg, widget: "image"
+      - {label: "Facebook Link Image", name: "fbLinkImg", widget: "image"
 
   - name: "pages"
     label: "Pages"
