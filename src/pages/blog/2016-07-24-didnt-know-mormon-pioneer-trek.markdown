@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/didnt-know-mormon-pioneer-trek/
 slug: didnt-know-mormon-pioneer-trek
 title: What You Didn't Know About the Mormon Pioneer Trek
 wordpress_id: 1860
-author:
-- chrisjpatty
 categories:
 - The Buzzz
 tags:

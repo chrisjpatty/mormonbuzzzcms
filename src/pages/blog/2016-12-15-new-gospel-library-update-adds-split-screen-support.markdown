@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/new-gospel-library-update-adds-split-screen-support
 slug: new-gospel-library-update-adds-split-screen-support
 title: New Gospel Library Update Adds Split Screen, Multitasking, and More
 wordpress_id: 2014
-author:
-- chrisjpatty
 categories:
 - The Buzzz
 ---

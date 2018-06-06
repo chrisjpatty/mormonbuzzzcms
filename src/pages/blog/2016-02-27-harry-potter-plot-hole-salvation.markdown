@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/harry-potter-plot-hole-salvation/
 slug: harry-potter-plot-hole-salvation
 title: What This Harry Potter Plot Hole Reveals About the Plan of Salvation
 wordpress_id: 1490
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

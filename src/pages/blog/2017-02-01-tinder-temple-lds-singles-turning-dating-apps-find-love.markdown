@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/tinder-temple-lds-singles-turning-dating-apps-find-
 slug: tinder-temple-lds-singles-turning-dating-apps-find-love
 title: 'From Tinder to Temple: LDS Singles Turn to Dating Apps to Find Love'
 wordpress_id: 2047
-author:
-- AriannaWRees
 categories:
 - Opinion
 ---

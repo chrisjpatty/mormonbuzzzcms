@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/breaking-news-elders-high-priests-combined-single-q
 slug: breaking-news-elders-high-priests-combined-single-quorum
 title: 'Breaking News: Elders and High Priests to be Combined into a Single Quorum'
 wordpress_id: 2148
-author:
-- chrisjpatty
 categories:
 - The Buzzz
 ---

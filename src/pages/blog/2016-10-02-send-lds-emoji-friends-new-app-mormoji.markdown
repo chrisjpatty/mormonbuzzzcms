@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/send-lds-emoji-friends-new-app-mormoji/
 slug: send-lds-emoji-friends-new-app-mormoji
 title: 'Send LDS Emoji to Your Friends With Our New App: Mormoji'
 wordpress_id: 1936
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

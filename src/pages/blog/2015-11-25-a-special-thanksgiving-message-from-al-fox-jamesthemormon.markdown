@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/a-special-thanksgiving-message-from-al-fox-jamesthe
 slug: a-special-thanksgiving-message-from-al-fox-jamesthemormon
 title: A Special Thanksgiving Message from Al Fox & JamesTheMormon
 wordpress_id: 1288
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/alarming-attacks-family-need-know/
 slug: alarming-attacks-family-need-know
 title: Alarming Attacks on the Family You Need to Know About
 wordpress_id: 546
-author:
-- mandy.davis
 categories:
 - Opinion
 tags:

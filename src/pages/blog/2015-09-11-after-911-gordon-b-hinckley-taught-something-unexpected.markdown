@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/after-911-gordon-b-hinckley-taught-something-unexpe
 slug: after-911-gordon-b-hinckley-taught-something-unexpected
 title: After 9/11 Gordon B. Hinckley Taught Something Unexpected
 wordpress_id: 1143
-author:
-- chrisjpatty
 categories:
 - The Buzzz
 tags:

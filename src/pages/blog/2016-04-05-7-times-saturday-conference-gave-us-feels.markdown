@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/7-times-saturday-conference-gave-us-feels/
 slug: 7-times-saturday-conference-gave-us-feels
 title: 10 Times General Conference Gave Us All the Feels
 wordpress_id: 1566
-author:
-- AriannaWRees
 categories:
 - Humor
 - The Buzzz

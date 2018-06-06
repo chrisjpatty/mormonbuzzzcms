@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/jesus-christ-feminist/
 slug: jesus-christ-feminist
 title: Was Jesus Christ a Feminist?
 wordpress_id: 1538
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/powerful-new-mormon-message-discusses-returning-ear
 slug: powerful-new-mormon-message-discusses-returning-early-mission
 title: New Mormon Message Discusses Returning Home Early From Mission, Depression
 wordpress_id: 1697
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

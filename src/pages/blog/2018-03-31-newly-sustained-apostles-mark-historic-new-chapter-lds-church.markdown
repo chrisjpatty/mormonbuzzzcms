@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/newly-sustained-apostles-mark-historic-new-chapter-
 slug: newly-sustained-apostles-mark-historic-new-chapter-lds-church
 title: Newly Sustained Apostles Mark a Historic New Chapter for the LDS Church
 wordpress_id: 2145
-author:
-- AriannaWRees
 categories:
 - The Buzzz
 tags:

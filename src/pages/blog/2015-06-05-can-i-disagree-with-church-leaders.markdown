@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/can-i-disagree-with-church-leaders/
 slug: can-i-disagree-with-church-leaders
 title: Can I Disagree With Church Leaders?
 wordpress_id: 724
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

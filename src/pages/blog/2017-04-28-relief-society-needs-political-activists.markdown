@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/relief-society-needs-political-activists/
 slug: relief-society-needs-political-activists
 title: The Relief Society Needs Political Activists, Too
 wordpress_id: 2091
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 tags:

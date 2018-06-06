@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/buzzz-on-the-street-general-conference-edition/
 slug: buzzz-on-the-street-general-conference-edition
 title: 'Buzzz on the street: General Conference Edition'
 wordpress_id: 1201
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

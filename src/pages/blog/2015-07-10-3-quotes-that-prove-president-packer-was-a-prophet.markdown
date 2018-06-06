@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/3-quotes-that-prove-president-packer-was-a-prophet/
 slug: 3-quotes-that-prove-president-packer-was-a-prophet
 title: 3 Quotes that Prove President Packer was a Prophet
 wordpress_id: 955
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

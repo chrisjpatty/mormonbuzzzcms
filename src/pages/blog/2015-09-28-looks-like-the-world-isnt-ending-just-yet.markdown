@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/looks-like-the-world-isnt-ending-just-yet/
 slug: looks-like-the-world-isnt-ending-just-yet
 title: Looks Like the World Isn't Ending Just Yet
 wordpress_id: 1169
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

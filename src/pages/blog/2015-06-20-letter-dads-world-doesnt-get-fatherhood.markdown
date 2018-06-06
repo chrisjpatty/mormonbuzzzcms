@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/letter-dads-world-doesnt-get-fatherhood/
 slug: letter-dads-world-doesnt-get-fatherhood
 title: A Letter to Dads in a World that Doesn't Get Fatherhood
 wordpress_id: 880
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

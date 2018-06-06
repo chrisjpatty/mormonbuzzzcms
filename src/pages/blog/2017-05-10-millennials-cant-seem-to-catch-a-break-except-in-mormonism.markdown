@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/millennials-cant-seem-to-catch-a-break-except-in-mo
 slug: millennials-cant-seem-to-catch-a-break-except-in-mormonism
 title: Millennials Can't Seem to Catch a Break, Except in Mormonism
 wordpress_id: 2099
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/7-contemporary-lds-hymn-covers/
 slug: 7-contemporary-lds-hymn-covers
 title: 9 LDS Hymn Covers That are Better Than the Originals
 wordpress_id: 1766
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

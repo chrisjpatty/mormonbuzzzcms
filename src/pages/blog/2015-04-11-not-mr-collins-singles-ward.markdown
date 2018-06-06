@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/not-mr-collins-singles-ward/
 slug: not-mr-collins-singles-ward
 title: How to Not Be the Mr. Collins of Your Singles Ward
 wordpress_id: 375
-author:
-- AriannaWRees
 categories:
 - Humor
 tags:

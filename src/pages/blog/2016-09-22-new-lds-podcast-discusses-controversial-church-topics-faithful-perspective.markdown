@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/new-lds-podcast-discusses-controversial-church-topi
 slug: new-lds-podcast-discusses-controversial-church-topics-faithful-perspective
 title: New LDS Podcast Discusses Controversial Church Topics from a Faithful Perspective
 wordpress_id: 1921
-author:
-- chrisjpatty
 categories:
 - The Buzzz
 tags:

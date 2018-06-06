@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/mormon-dating-broken/
 slug: mormon-dating-broken
 title: Is Mormon Dating Broken?
 wordpress_id: 654
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

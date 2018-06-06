@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/scriptures-taught-depression/
 slug: scriptures-taught-depression
 title: What My Scriptures Taught Me About My Depression
 wordpress_id: 567
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

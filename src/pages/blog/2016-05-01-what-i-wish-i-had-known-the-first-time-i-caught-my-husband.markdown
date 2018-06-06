@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/what-i-wish-i-had-known-the-first-time-i-caught-my-
 slug: what-i-wish-i-had-known-the-first-time-i-caught-my-husband
 title: What I Wish I Had Known the First Time I Caught My Husband Looking at Porn
 wordpress_id: 1618
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/forget-tragedy-strikes/
 slug: forget-tragedy-strikes
 title: What We Forget When Tragedy Strikes
 wordpress_id: 1852
-author:
-- AriannaWRees
 categories:
 - The Buzzz
 tags:

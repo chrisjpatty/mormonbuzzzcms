@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/the-terrible-advice-mormons-should-stop-giving/
 slug: the-terrible-advice-mormons-should-stop-giving
 title: The Terrible Advice Mormons Should Stop Giving
 wordpress_id: 1162
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

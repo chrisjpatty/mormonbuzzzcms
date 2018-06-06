@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/marvel-characters-reimagined/
 slug: marvel-characters-reimagined
 title: Popular Mormon Ads Reimagined with Marvel Characters
 wordpress_id: 1718
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/mission-taught-motherhood/
 slug: mission-taught-motherhood
 title: What My Mission Taught Me About Motherhood
 wordpress_id: 1633
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

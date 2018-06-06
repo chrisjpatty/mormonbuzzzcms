@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/3-things-every-rm-cannot-afford-misunderstand/
 slug: 3-things-every-rm-cannot-afford-misunderstand
 title: 3 Things Every RM Cannot Afford to Misunderstand
 wordpress_id: 762
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

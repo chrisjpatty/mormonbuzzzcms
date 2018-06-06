@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/how-to-not-be-the-eponine-in-your-relationships/
 slug: how-to-not-be-the-eponine-in-your-relationships
 title: How to not be the Eponine in Your Relationships
 wordpress_id: 1062
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/theres-something-wrong-with-you/
 slug: theres-something-wrong-with-you
 title: There's Something Wrong With You
 wordpress_id: 947
-author:
-- chrisjpatty
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/read-this-touching-poem-from-a-daughter-to-her-mom/
 slug: read-this-touching-poem-from-a-daughter-to-her-mom
 title: Read This Touching Poem from a Daughter to Her Mom
 wordpress_id: 656
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/4-examples-ldsconf-help-fix-boring-church-talks/
 slug: 4-examples-ldsconf-help-fix-boring-church-talks
 title: '4 Examples from #ldsconf to Help You Fix Your Boring Church Talks'
 wordpress_id: 1967
-author:
-- AriannaWRees
 categories:
 - The Buzzz
 tags:

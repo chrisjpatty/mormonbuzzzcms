@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/3-friends-visited-countries-test-mormon-hospitality
 slug: 3-friends-visited-countries-test-mormon-hospitality
 title: 3 Friends Visited 22 Countries in 90 Days to Test Mormon Hospitality
 wordpress_id: 1710
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 ---

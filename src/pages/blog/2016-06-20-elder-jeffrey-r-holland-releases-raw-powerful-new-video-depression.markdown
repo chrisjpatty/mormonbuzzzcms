@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/elder-jeffrey-r-holland-releases-raw-powerful-new-v
 slug: elder-jeffrey-r-holland-releases-raw-powerful-new-video-depression
 title: Elder Jeffrey R. Holland Releases Raw, Powerful New Video on Depression
 wordpress_id: 1774
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

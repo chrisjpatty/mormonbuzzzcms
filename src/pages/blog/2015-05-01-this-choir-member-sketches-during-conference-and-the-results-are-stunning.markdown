@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/this-choir-member-sketches-during-conference-and-th
 slug: this-choir-member-sketches-during-conference-and-the-results-are-stunning
 title: This Choir Member Sketches During Conference, and the Results are Stunning!
 wordpress_id: 390
-author:
-- chrisjpatty
 categories:
 - The Buzzz
 tags:

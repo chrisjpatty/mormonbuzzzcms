@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/simple-diy-gifts-for-mormons/
 slug: simple-diy-gifts-for-mormons
 title: 6 Simple DIY Gifts for Mormons
 wordpress_id: 1295
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

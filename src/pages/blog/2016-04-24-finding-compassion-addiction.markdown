@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/finding-compassion-addiction/
 slug: finding-compassion-addiction
 title: Finding Compassion Through Addiction
 wordpress_id: 1602
-author:
-- mormonbuzzz
 categories:
 - Opinion
 ---

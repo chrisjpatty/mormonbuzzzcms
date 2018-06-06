@@ -8,8 +8,6 @@ slug: 6-pictures-2016-candidates-holding-scriptures-arent-near-funny-thought-the
 title: 5 Pictures of 2016 Candidates Holding Scriptures That Aren't Near as Funny
   as We Thought They'd Be
 wordpress_id: 1546
-author:
-- mormonbuzzz
 categories:
 - Humor
 - Satire

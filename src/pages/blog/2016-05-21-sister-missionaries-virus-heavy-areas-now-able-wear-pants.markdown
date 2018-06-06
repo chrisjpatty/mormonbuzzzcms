@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/sister-missionaries-virus-heavy-areas-now-able-wear
 slug: sister-missionaries-virus-heavy-areas-now-able-wear-pants
 title: Sister Missionaries in Disease-Impacted Areas Now Able to Wear Pants
 wordpress_id: 1651
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

@@ -8,8 +8,6 @@ slug: jamesthemormon-back-american-idol-jenn-blosil
 title: Jamesthemormon and American Idol Jenn Blosil Have Unbelievable Missionary Moment
   While Making Easter Video
 wordpress_id: 1529
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 tags:

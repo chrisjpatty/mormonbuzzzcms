@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/danger-of-clinging-to-the-rod/
 slug: danger-of-clinging-to-the-rod
 title: The Danger of Clinging to the Iron Rod
 wordpress_id: 1415
-author:
-- AriannaWRees
 categories:
 - Opinion
 ---

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/ask-chris-mormon-relationship-advice-from-a-very-si
 slug: ask-chris-mormon-relationship-advice-from-a-very-single-man
 title: 'Ask Chris: Mormon Relationship Advice from a Very Single Man'
 wordpress_id: 1451
-author:
-- chrisjpatty
 categories:
 - Humor
 tags:

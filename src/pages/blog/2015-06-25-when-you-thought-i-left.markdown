@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/when-you-thought-i-left/
 slug: when-you-thought-i-left
 title: When You Thought I Left
 wordpress_id: 899
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/5-tips-moving-home-ward-ysa/
 slug: 5-tips-moving-home-ward-ysa
 title: So You're Moving to the Singles Ward
 wordpress_id: 127
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

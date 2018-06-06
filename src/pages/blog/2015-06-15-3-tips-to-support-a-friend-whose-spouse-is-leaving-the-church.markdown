@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/3-tips-to-support-a-friend-whose-spouse-is-leaving-
 slug: 3-tips-to-support-a-friend-whose-spouse-is-leaving-the-church
 title: 3 Tips to Support a Friend Whose Spouse is Leaving the Church
 wordpress_id: 848
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

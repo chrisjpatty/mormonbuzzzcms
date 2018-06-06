@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/church-pushing-safety-hard-month/
 slug: church-pushing-safety-hard-month
 title: Why the Church is Pushing Safety Hard this Month
 wordpress_id: 2119
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 ---

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/lds-church-end-boy-scouts-personal-progress-program
 slug: lds-church-end-boy-scouts-personal-progress-programs-2020
 title: LDS Church to End Boy Scouts and Personal Progress Programs by 2020
 wordpress_id: 2164
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

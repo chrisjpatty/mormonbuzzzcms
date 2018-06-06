@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/lindsey-stirlings-billboards-dress-doesnt-matter/
 slug: lindsey-stirlings-billboards-dress-doesnt-matter
 title: Lindsey Stirling's Billboards Dress Doesn't Matter
 wordpress_id: 698
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

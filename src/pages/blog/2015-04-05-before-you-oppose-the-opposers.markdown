@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/before-you-oppose-the-opposers/
 slug: before-you-oppose-the-opposers
 title: Before You Oppose The Opposers
 wordpress_id: 322
-author:
-- chrisjpatty
 categories:
 - Opinion
 ---

@@ -8,8 +8,6 @@ slug: '%e2%80%8bone-punctuation-mark-changes-read-family-proclamation-world'
 title: '​One Punctuation Mark Changes How You Read "The Family: A Proclamation to
   the World"'
 wordpress_id: 1257
-author:
-- mormonbuzzz
 categories:
 - Opinion
 tags:

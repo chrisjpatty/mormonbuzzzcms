@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/how-not-serving-a-mission-made-me-a-better-missiona
 slug: how-not-serving-a-mission-made-me-a-better-missionary
 title: How Not Serving a Mission Made Me a Better Missionary
 wordpress_id: 510
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

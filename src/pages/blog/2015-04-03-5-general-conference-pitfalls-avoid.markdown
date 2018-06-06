@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/5-general-conference-pitfalls-avoid/
 slug: 5-general-conference-pitfalls-avoid
 title: 5 General Conference Pitfalls and How to Avoid Them
 wordpress_id: 314
-author:
-- stephanie.judth
 categories:
 - Opinion
 tags:

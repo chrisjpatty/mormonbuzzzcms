@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/love-good-samaritan-youre-not-supposed/
 slug: love-good-samaritan-youre-not-supposed
 title: Love the Good Samaritan? You're Not Supposed To
 wordpress_id: 2172
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/4-things-quiet-members-ward-want-know/
 slug: 4-things-quiet-members-ward-want-know
 title: 4 Things the Quiet Members of Your Ward Want You to Know
 wordpress_id: 134
-author:
-- AriannaWRees
 categories:
 - Opinion
 ---
@@ -34,5 +32,3 @@ Sometimes, by accident, we quiet folks can come across as stuck up, arrogant, or
 **4. We need to feel included, too. **
 
 A lot of us quiet folks keep to ourselves. That may be because we're pretty introverted or it might be because we don't have many friends in our ward. Whatever the case, we _need _you to accept and include us, too. We need to feel like we are wanted, like we are important, and like we have valuable things to contribute. Even though we may be slightly uncomfortable in group situations, we crave feeling like somebody cares for us and wants us to be a part of their lives. Keep reaching out to us. Keep asking us how we're doing. Even if it's hard for us to express ourselves, we appreciate it when we are given a chance to be involved. That's something we _all _need.
-
-

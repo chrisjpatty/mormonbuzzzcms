@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/crab-apple-trees-forgotten-beauty/
 slug: crab-apple-trees-forgotten-beauty
 title: Crab Apple Trees & Forgotten Beauty
 wordpress_id: 948
-author:
-- mormonbuzzz
 categories:
 - Opinion
 ---

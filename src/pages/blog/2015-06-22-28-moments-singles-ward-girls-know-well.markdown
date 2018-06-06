@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/28-moments-singles-ward-girls-know-well/
 slug: 28-moments-singles-ward-girls-know-well
 title: 28 Moments Singles Ward Girls Know All Too Well
 wordpress_id: 91
-author:
-- AriannaWRees
 categories:
 - Humor
 tags:

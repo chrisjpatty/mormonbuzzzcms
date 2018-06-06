@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/7-ways-to-come-pre-trained-for-your-mission/
 slug: 7-ways-to-come-pre-trained-for-your-mission
 title: 7 Ways to Come Pre-Trained for Your Mission
 wordpress_id: 1051
-author:
-- mormonbuzzz
 categories:
 - Opinion
 - The Buzzz

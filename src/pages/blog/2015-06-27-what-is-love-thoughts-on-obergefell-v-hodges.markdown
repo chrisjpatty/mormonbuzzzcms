@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/what-is-love-thoughts-on-obergefell-v-hodges/
 slug: what-is-love-thoughts-on-obergefell-v-hodges
 title: What is Love? - Thoughts on Obergefell v. Hodges
 wordpress_id: 915
-author:
-- AriannaWRees
 categories:
 - Opinion
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/if-millennials-were-pioneers/
 slug: if-millennials-were-pioneers
 title: If Millennials Had Been Pioneers
 wordpress_id: 1013
-author:
-- stephanie.judth
 categories:
 - Humor
 tags:

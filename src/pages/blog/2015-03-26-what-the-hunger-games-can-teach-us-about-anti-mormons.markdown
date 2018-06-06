@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/what-the-hunger-games-can-teach-us-about-anti-mormo
 slug: what-the-hunger-games-can-teach-us-about-anti-mormons
 title: What the Hunger Games Can Teach Us About "Anti-Mormons"
 wordpress_id: 204
-author:
-- chrisjpatty
 categories:
 - Opinion
 ---

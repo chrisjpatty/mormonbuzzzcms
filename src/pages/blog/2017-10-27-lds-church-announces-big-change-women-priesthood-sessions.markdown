@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/lds-church-announces-big-change-women-priesthood-se
 slug: lds-church-announces-big-change-women-priesthood-sessions
 title: LDS Church Announces Big Change to Women & Priesthood Sessions
 wordpress_id: 2136
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/amazing-videos-tribute-to-mom/
 slug: amazing-videos-tribute-to-mom
 title: 5 Amazing Videos That Give Tribute to Mom
 wordpress_id: 646
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 ---

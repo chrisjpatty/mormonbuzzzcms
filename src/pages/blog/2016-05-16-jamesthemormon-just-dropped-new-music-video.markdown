@@ -8,8 +8,6 @@ slug: jamesthemormon-just-dropped-new-music-video
 title: Jamesthemormon Just Dropped a New Music Video to Let Everyone Know They're
   Treasure
 wordpress_id: 1641
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 post_format:

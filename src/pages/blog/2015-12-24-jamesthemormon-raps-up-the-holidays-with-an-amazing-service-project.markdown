@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/jamesthemormon-raps-up-the-holidays-with-an-amazing
 slug: jamesthemormon-raps-up-the-holidays-with-an-amazing-service-project
 title: Jamesthemormon Raps Up the Holidays With An Amazing Service Project
 wordpress_id: 1375
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 tags:

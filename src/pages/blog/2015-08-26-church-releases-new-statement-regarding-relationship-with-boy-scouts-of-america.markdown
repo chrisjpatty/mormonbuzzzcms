@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/church-releases-new-statement-regarding-relationshi
 slug: church-releases-new-statement-regarding-relationship-with-boy-scouts-of-america
 title: Church Releases New Statement Regarding Relationship With Boy Scouts of America
 wordpress_id: 1121
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:

@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/elder-christofferson-did-something-surprising-this-
 slug: elder-christofferson-did-something-surprising-this-weekend
 title: Elder Christofferson Did Something Surprising This Weekend
 wordpress_id: 1193
-author:
-- stephanie.judth
 categories:
 - The Buzzz
 tags:

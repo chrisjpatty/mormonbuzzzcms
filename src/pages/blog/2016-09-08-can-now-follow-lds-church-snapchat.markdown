@@ -7,8 +7,6 @@ link: http://mormonbuzzz.com/can-now-follow-lds-church-snapchat/
 slug: can-now-follow-lds-church-snapchat
 title: You Can Now Follow the LDS Church on Snapchat
 wordpress_id: 1902
-author:
-- mormonbuzzz
 categories:
 - The Buzzz
 tags:
