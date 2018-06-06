@@ -7,6 +7,7 @@ layout: post
 link: http://mormonbuzzz.com/parable-chocolate-cake/
 slug: parable-chocolate-cake
 title: The Parable of the Chocolate Cake
+fbLinkImg: /img/ddgbv69w4aevxfq.jpg
 wordpress_id: 133
 ---
 
