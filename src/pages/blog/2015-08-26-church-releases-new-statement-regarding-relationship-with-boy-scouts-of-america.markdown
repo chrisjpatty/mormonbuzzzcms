@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 author: mormonbuzzz
 comments: true
 date: 2015-08-26 16:07:18+00:00

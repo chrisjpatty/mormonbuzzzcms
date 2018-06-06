@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 author: AriannaWRees
 comments: true
 date: 2015-05-04 20:43:42+00:00

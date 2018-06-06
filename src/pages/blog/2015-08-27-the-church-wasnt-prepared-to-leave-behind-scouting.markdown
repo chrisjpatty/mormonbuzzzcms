@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 author: stephanie.judth
 comments: true
 date: 2015-08-27 08:07:54+00:00

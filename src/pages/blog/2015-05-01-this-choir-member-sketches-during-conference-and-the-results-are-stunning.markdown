@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 author: chrisjpatty
 comments: true
 date: 2015-05-01 23:45:57+00:00
