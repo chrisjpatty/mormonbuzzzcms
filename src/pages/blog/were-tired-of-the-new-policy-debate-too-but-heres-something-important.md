@@ -69,7 +69,7 @@ These misleading articles have left many feeling and exclaiming that the Church 
 ## 3. We all need to be patient.
 
 
-[![The-Lords-Understanding](http://mormonbuzzz.com/wp-content/uploads/2015/11/The-Lords-Understanding.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/11/The-Lords-Understanding.jpg)
+[![The-Lords-Understanding](/img/The-Lords-Understanding.jpg)](/img/The-Lords-Understanding.jpg)
 
 This policy is fresh on the books. How it will be implemented and who it will affect are purely matters of speculation at this point. Before passing judgement, I think it would be fair to wait to see if the horror stories predicted by the media and others actually come true. My prediction is that they will not. Anyone who has spent any time in different wards or branches of the Church knows that policies are often interpreted and carried out in vastly different ways. Handbooks are guidelines, and provisions are made for exceptional cases. The Church is a ministry, not a bureaucracy, and while there may be a minimal amount of red tape involved in Church administration, the leaders of the Church are not unempathetic or unyielding. People will be taken care of in a loving and caring manner. 
 

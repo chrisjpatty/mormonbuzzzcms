@@ -20,7 +20,7 @@ This new policy has already been quietly tested in stakes around the world.  On
 
 Parents are thrilled about the announcement, but not as excited as their children. Emma, a recently turned two-year-old from Taylorsville, Utah had this to say when she heard the announcement: “I go to Primary now!” She, along with her parents, have already contacted their local primary president to arrange her transition from nursery to Sunbeams.
 
-[![Teacher Teaching](http://mormonbuzzz.com/wp-content/uploads/2015/04/Teacher-Teaching.png)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Teacher-Teaching.png)
+[![Teacher Teaching](/img/Teacher-Teaching.png)](/img/Teacher-Teaching.png)
 
 As part of this change, the church has released a set of pamphlets outlining the rules and responsibilities primary children are expected to follow.  Parents are encouraged to have their children start studying these pamphlets as early as six months old to help ensure a smooth transition into primary.
 

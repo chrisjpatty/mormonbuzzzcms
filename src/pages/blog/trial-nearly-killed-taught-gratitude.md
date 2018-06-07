@@ -42,7 +42,7 @@ Through my health issues that I still struggle with today, I take comfort in the
 
 
 
-_[![20150814_184038 - Copy (3) - Copy](http://mormonbuzzz.com/wp-content/uploads/2016/08/20150814_184038-Copy-3-Copy.jpg)](http://mormonbuzzz.com/wp-content/uploads/2016/08/20150814_184038-Copy-3-Copy.jpg)This post was written by Tyler Knight. Knight is a vocal performance major who loves all aspects of music. His emphasis is opera,and he enjoys playing the piano as well. Performing with his wife either on stage or in church is one of his favorite activities. He has a deep love and appreciation for church history and spends his spare time learning about the early saints and their every day experiences._
+_[![20150814_184038 - Copy (3) - Copy](/img/20150814_184038-Copy-3-Copy.jpg)](/img/20150814_184038-Copy-3-Copy.jpg)This post was written by Tyler Knight. Knight is a vocal performance major who loves all aspects of music. His emphasis is opera,and he enjoys playing the piano as well. Performing with his wife either on stage or in church is one of his favorite activities. He has a deep love and appreciation for church history and spends his spare time learning about the early saints and their every day experiences._
 
 
 

@@ -263,7 +263,7 @@ May 4 is considered, unofficially, to be National Star Wars Day! To celebrate, h
 ## Definitive Proof the Jedi Council and Quorum of the 12 are the Same Thing
 
 
-[![jediapostles](http://mormonbuzzz.com/wp-content/uploads/2015/05/jediapostles.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/jediapostles.jpg)
+[![jediapostles](/img/jediapostles.jpg)](/img/jediapostles.jpg)
 
 What do the Quorum of the Twelve Apostles and the most powerful group of Jedi in the galaxy have in common? Well, you might be surprised.
 
@@ -289,7 +289,7 @@ The Quorum of the 12 meets in the upper room of the Salt Lake City Temple every 
 
 Coincidence? We think not.
 
-[![templesjed](http://mormonbuzzz.com/wp-content/uploads/2015/05/templesjed.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/templesjed.jpg)
+[![templesjed](/img/templesjed.jpg)](/img/templesjed.jpg)
 
 
 ### 3. Both groups work closely with local and national governments.

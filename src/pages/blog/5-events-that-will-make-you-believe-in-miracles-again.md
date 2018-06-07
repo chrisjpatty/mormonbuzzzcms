@@ -19,7 +19,7 @@ tags:
 
 
 
-[![Screen Shot 2015-06-05 at 6.09.12 PM](http://mormonbuzzz.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-05-at-6.09.12-PM.png)](http://mormonbuzzz.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-05-at-6.09.12-PM.png)
+[![Screen Shot 2015-06-05 at 6.09.12 PM](/img/Screen-Shot-2015-06-05-at-6.09.12-PM.png)](/img/Screen-Shot-2015-06-05-at-6.09.12-PM.png)
 
 
 _Photo courtesy Stott family_
@@ -59,11 +59,11 @@ March 2015, 18-month-year-old Lily was rescued after being suspended in her car 
 
 
 
-[![cokeville 18](http://mormonbuzzz.com/wp-content/uploads/2015/06/cokeville-18.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/06/cokeville-18.jpg)
+[![cokeville 18](/img/cokeville-18.jpg)](/img/cokeville-18.jpg)
 
 May 16, 1986, David Young and his wife Doris entered an elementary school in Cokeville Wyoming and took 136 children and 18 adults hostage with firearms and a homemade bomb. They gathered everyone in the school into one classroom. He attached the bomb to his wrist and threatened the group that he might, at any time, move his arm and ignite the bomb. He demanded 2 million dollars per child and an audience with the President Regan. After a two and a half hour standoff, the children became restless and offered a prayer. Soon after the prayer the bomb was accidentally detonated and teachers began helping the students through open windows and out the doors through the smoke and fire to safety. Every child and adult in the room escaped with their lives except for the two perpetrators David and Doris Young. There lots of little miracles associated with this event and they are all beautifully portrayed in T.C. Christensen's newest film [Cokeville Miracle](https://www.youtube.com/watch?v=jn20a71m45M), in theaters today June 5. The movie focuses on the miracle surrounding the event rather than the sensationalism of a crazy man taking children hostage. It emphasizes the power of prayer, a miracle, and God’s grace. If this movie doesn’t make you believe in miracles again, I don’t know what will.
 
-[![11002659_10153679738747575_445015515179139310_n](http://mormonbuzzz.com/wp-content/uploads/2015/06/11002659_10153679738747575_445015515179139310_n.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/06/11002659_10153679738747575_445015515179139310_n.jpg)
+[![11002659_10153679738747575_445015515179139310_n](/img/11002659_10153679738747575_445015515179139310_n.jpg)](/img/11002659_10153679738747575_445015515179139310_n.jpg)
 
 
 ### 4. When two thirteen year old girls were saved after their boat capsized on Bear Lake.
@@ -72,7 +72,7 @@ May 16, 1986, David Young and his wife Doris entered an elementary school in Cok
 
 
 
-[![ht_utah_teens_kab_150605_16x9_992](http://mormonbuzzz.com/wp-content/uploads/2015/06/ht_utah_teens_kab_150605_16x9_992.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/06/ht_utah_teens_kab_150605_16x9_992.jpg)_photo via ABC News_
+[![ht_utah_teens_kab_150605_16x9_992](/img/ht_utah_teens_kab_150605_16x9_992.jpg)](/img/ht_utah_teens_kab_150605_16x9_992.jpg)_photo via ABC News_
 
 
 On June 1st, 2015, a sudden storm with extreme wind gusts settled over Bear Lake, in the Northeastern corner of Utah. Strong winds caused a boat carrying seven individuals to capsize, and those individuals fought the waves while they waited for rescue. Two teens in the group, Tiffany Stoker, 13, and Tylinn Tilly, 13, reported that when the boat capsized, they felt as if they were lifted up and gently placed into the water a safe distance from the boat. The Tiffany and Tylinn then decided to embark on their own and began swimming toward shore for help. As they swam they encouraged each other and would massage each others legs when they got cramps. They sang primary hymns and prayed together even though they had to shout over the roar of the waves. When the sun went down they began to lose hope, but a final glimmer of light from the sky gave them just the motivation they needed to swim a little bit farther. A search and rescue boat found them soon after, both cold and weak, they were rescued three hours after the boat capsized. Kathryn Capener also survived the ordeal, however, her husband Lance, her daughters Kelsey, 13,  Kilee, 7 and a family friend Siera Hadley, 13, didn’t survive. While this miracle is surrounded by tragedy we cannot deny the heavenly hand that surrounded the rescue of these two teenagers.
@@ -83,7 +83,7 @@ On June 1st, 2015, a sudden storm with extreme wind gusts settled over Bear Lake
 
 
 
-[![Screen Shot 2015-06-05 at 6.55.52 PM](http://mormonbuzzz.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-05-at-6.55.52-PM.png)](http://mormonbuzzz.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-05-at-6.55.52-PM.png)
+[![Screen Shot 2015-06-05 at 6.55.52 PM](/img/Screen-Shot-2015-06-05-at-6.55.52-PM.png)](/img/Screen-Shot-2015-06-05-at-6.55.52-PM.png)
 
 
 _via ABC News: (courtesy Nielson famil_y)

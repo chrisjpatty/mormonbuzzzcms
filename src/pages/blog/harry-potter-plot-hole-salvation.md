@@ -20,13 +20,13 @@ It was one in the morning at a bus station in Chile, and everything was still an
 
 “I never understood how Harry Potter, a misfortunate orphan with a terrible childhood, could find out he was a wizard and get accepted into a prestigious wizarding school and still get bad grades and slack off. If I was accepted into Hogwarts to become a wizard, I’d freaking pay attention in class!”
 
-[caption id="attachment_1492" align="alignleft" width="260"]![Harry and Ron squandering their opportunities.](http://mormonbuzzz.com/wp-content/uploads/2016/02/hittingron.gif) Harry and Ron squandering their opportunities.[/caption]
+[caption id="attachment_1492" align="alignleft" width="260"]![Harry and Ron squandering their opportunities.](/img/hittingron.gif) Harry and Ron squandering their opportunities.[/caption]
 
 I was dumbstruck. Of course! How could Harry be so reckless? I recalled reading the books and thinking of all the times Harry and Ron ditched their homework to go to Quidditch practice or to steal ingredients to make a polyjuice potion. They blamed their lack of success in potions class on Professor Snape, because he obviously hated them. But why would anyone take MAGIC CLASSES for granted? Hermione sure didn’t. Her attitude seemed the exact opposite. She took advantage of every moment she had to learn and understand everything she could about this new world she was introduced to. She took harnessing her new-found power very seriously and, consequently, became known as the most clever witch in her class. I suddenly realized that Hermione was the only rational one in the group. Knowing this made Harry’s situation more baffling.
 
 Imagine what a privilege it was for Harry Potter to have the opportunity to leave the empty, dull life on Privet Drive and enter a new world where he was given nearly limitless power and instruction on how to use it. He squandered his potential by not paying attention in class and by taking his education for granted! I remember lying awake in my bed until midnight on my eleventh birthday, just for the off chance a magic owl would swoop in and drop off a letter addressed to me. I remember feeling disappointed for a moment that such a magical, mystical place didn’t exist (or at least not for a poor muggle like me). How could Harry act so blasé about his fantastic life?!
 
-[caption id="attachment_1501" align="alignright" width="245"]![This never happened to me. #MuggleLife](http://mormonbuzzz.com/wp-content/uploads/2016/02/Letters.gif) This never happened to me. #MuggleLife[/caption]
+[caption id="attachment_1501" align="alignright" width="245"]![This never happened to me. #MuggleLife](/img/Letters.gif) This never happened to me. #MuggleLife[/caption]
 
 I realized that I do the exact same thing.
 

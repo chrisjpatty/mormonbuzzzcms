@@ -65,17 +65,17 @@ Now most people aren't going to just be searching for hashtags, although some wi
 
 On Facebook, "Trending" topics are shown to the right of your homepage:
 
-[![facebookHomepage](http://mormonbuzzz.com/wp-content/uploads/2015/03/facebookHomepage.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/facebookHomepage.jpg)
+[![facebookHomepage](/img/facebookHomepage.jpg)](/img/facebookHomepage.jpg)
 
 On Twitter they're shown on the left:
 
-[![twitter](http://mormonbuzzz.com/wp-content/uploads/2015/03/twitter.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/twitter.jpg)
+[![twitter](/img/twitter.jpg)](/img/twitter.jpg)
 
 When hashtags become "trending," massive amounts of people are likely to read the posts with that hashtag.
 
 To give you an example, remember "the dress"? Of course you do. The reason you know about some random woman's ambiguously colored dress is because #TheDress became a trending topic on nearly every social media site. Here's how quickly tweets were being posted with #TheDress in real time:
 
-[![thedress](http://mormonbuzzz.com/wp-content/uploads/2015/03/thedress.gif)](http://mormonbuzzz.com/wp-content/uploads/2015/03/thedress.gif)
+[![thedress](/img/thedress.gif)](/img/thedress.gif)
 
 That's a lot of tweets for one topic. The Church has realized just how powerful hashtags can be, and hence why there's now official Church hashtags for nearly all Church broadcasts. General Conference is usually #LDSconf.  The Church also periodically uses hashtags in social media campaigns.  The most recent being their new video for Easter with the hashtag #BecauseHeLives.  When members use these hashtags in their posts about the Church, they contribute to those topics becoming "trending" topics, and consequently, a lot of people will potentially see and read those posts.
 

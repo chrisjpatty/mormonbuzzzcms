@@ -26,7 +26,7 @@ At a time with so much change in church leadership, one might wonder what it tak
 
 
 
-[![36923_all_53-youngerpacker](http://mormonbuzzz.com/wp-content/uploads/2015/09/36923_all_53-youngerpacker.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/09/36923_all_53-youngerpacker.jpg)Perhaps no one described the the Twelve like President Boyd K. Packer. He compared the Twelve of today to the original Twelve:
+[![36923_all_53-youngerpacker](/img/36923_all_53-youngerpacker.jpg)](/img/36923_all_53-youngerpacker.jpg)Perhaps no one described the the Twelve like President Boyd K. Packer. He compared the Twelve of today to the original Twelve:
 
 “The present Twelve are very ordinary people. They are not, as the original Twelve were not, spectacular individually, but collectively the Twelve are a power.
 

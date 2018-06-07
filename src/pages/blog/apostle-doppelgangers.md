@@ -21,7 +21,7 @@ From the time most of us exited the womb, we've been well trained to recognize t
 
 
 
-### ![monson spector](http://mormonbuzzz.com/wp-content/uploads/2015/03/monson-spector.jpg)
+### ![monson spector](/img/monson-spector.jpg)
 
 
 
@@ -88,7 +88,7 @@ Elder Oaks would have let your people go the first time, Charlton Heston.
 
 
 
-[![fdr christoff](http://mormonbuzzz.com/wp-content/uploads/2015/03/fdr-christoff.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/fdr-christoff.jpg)Go back and watch_ Annie_ and try _not_ to picture Elder Christofferson singing, "Tomorrow." We dare you.
+[![fdr christoff](/img/fdr-christoff.jpg)](/img/fdr-christoff.jpg)Go back and watch_ Annie_ and try _not_ to picture Elder Christofferson singing, "Tomorrow." We dare you.
 
 
 ### Quinton L. Cook and actor Jason Alexander (circa "Seinfield")
@@ -96,7 +96,7 @@ Elder Oaks would have let your people go the first time, Charlton Heston.
 
 
 
-[![cook costanza](http://mormonbuzzz.com/wp-content/uploads/2015/03/cook-costanza.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/cook-costanza.jpg)
+[![cook costanza](/img/cook-costanza.jpg)](/img/cook-costanza.jpg)
 
 The lovable personality store called, and they're fresh outta Elder Cook.
 
@@ -106,7 +106,7 @@ The lovable personality store called, and they're fresh outta Elder Cook.
 
 
 
-[![nelson nixon2](http://mormonbuzzz.com/wp-content/uploads/2015/03/nelson-nixon2.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/nelson-nixon2.jpg)
+[![nelson nixon2](/img/nelson-nixon2.jpg)](/img/nelson-nixon2.jpg)
 
 President Nixon probably should have stuck to "strait is the gate and narrow the way," like his beloved lookalike, instead of that other "gate"...
 
@@ -116,7 +116,7 @@ President Nixon probably should have stuck to "strait is the gate and narrow the
 
 
 
-[![bednar roberts](http://mormonbuzzz.com/wp-content/uploads/2015/03/bednar-roberts.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/bednar-roberts.jpg)
+[![bednar roberts](/img/bednar-roberts.jpg)](/img/bednar-roberts.jpg)
 
 It's not too hard to imagine Elder Bednar laying down the law. Oyez, oyez, oyez!
 
@@ -126,7 +126,7 @@ It's not too hard to imagine Elder Bednar laying down the law. Oyez, oyez, oyez!
 
 
 
-[![hales gore](http://mormonbuzzz.com/wp-content/uploads/2015/03/hales-gore.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/hales-gore.jpg)
+[![hales gore](/img/hales-gore.jpg)](/img/hales-gore.jpg)
 
 Note: despite popular myth, Elder Hales DID NOT in fact invent the Internet, and neither did his famous lookalike.
 
@@ -136,7 +136,7 @@ Note: despite popular myth, Elder Hales DID NOT in fact invent the Internet, and
 
 
 
-[![holland mccartney](http://mormonbuzzz.com/wp-content/uploads/2015/03/holland-mccartney.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/holland-mccartney.jpg)
+[![holland mccartney](/img/holland-mccartney.jpg)](/img/holland-mccartney.jpg)
 
 "It's been a hard day's night, but the triumphant and glorious return of the Messiah shall come."
 
@@ -148,7 +148,7 @@ Yeah. We can dig it.
 
 
 
-[![peck andersen](http://mormonbuzzz.com/wp-content/uploads/2015/03/peck-andersen.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/peck-andersen.jpg)
+[![peck andersen](/img/peck-andersen.jpg)](/img/peck-andersen.jpg)
 
 One's a debonair 1950s-era charmer, and the other's some actor.
 
@@ -158,7 +158,7 @@ One's a debonair 1950s-era charmer, and the other's some actor.
 
 
 
-[![scottpalp](http://mormonbuzzz.com/wp-content/uploads/2015/03/scottpalp.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/03/scottpalp.jpg)
+[![scottpalp](/img/scottpalp.jpg)](/img/scottpalp.jpg)
 
 We can't imagine Elder Scott hurting a fly, let alone the entire Galactic Republic, but if ever he wanted to be a stunt double, an opportunity was lost here.
 

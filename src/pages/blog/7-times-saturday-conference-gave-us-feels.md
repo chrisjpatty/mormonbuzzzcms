@@ -23,20 +23,20 @@ We don’t know about you, but we’re a little [read: a lotta] emotional after 
 
 **1. When members of the Mormon Tabernacle Choir wept through “Come Thou Fount,” especially this man:**
 
-[![cryingchoir](http://mormonbuzzz.com/wp-content/uploads/2016/04/cryingchoir.jpg)](http://mormonbuzzz.com/wp-content/uploads/2016/04/cryingchoir.jpg)
+[![cryingchoir](/img/cryingchoir.jpg)](/img/cryingchoir.jpg)
 
 *Cue sudden and unexpected sobbing.
 
 
 
 **2. When new apostle Elder Rasband’s voice wavered as he expressed his deepest gratitude for those praying for and sustaining him.**
-[![feels gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/feels-gif.gif)](http://mormonbuzzz.com/wp-content/uploads/2016/04/feels-gif.gif)
+[![feels gif](/img/feels-gif.gif)](/img/feels-gif.gif)
 
 
 
 **3. When the camera panned to Sister Wixom’s tear-filled eyes as the Primary Presidency got released.**
 
-[![general conf wixom](http://mormonbuzzz.com/wp-content/uploads/2016/04/general-conf-wixom.jpg)](http://mormonbuzzz.com/wp-content/uploads/2016/04/general-conf-wixom.jpg)
+[![general conf wixom](/img/general-conf-wixom.jpg)](/img/general-conf-wixom.jpg)
 
 We're okay...we're...not okay. *cry*
 
@@ -44,13 +44,13 @@ We're okay...we're...not okay. *cry*
 
 **4. When President Monson and Elder Hales had to be helped by security/other apostles to the pulpit and we were all emotionally them. **
 
-[![sams gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/sams-gif.jpg)](http://mormonbuzzz.com/wp-content/uploads/2016/04/sams-gif.jpg)
+[![sams gif](/img/sams-gif.jpg)](/img/sams-gif.jpg)
 
 
 
 **5. When Elder Kearon shared his experiences with refugees and you could see the love pouring from his tender British eyes.**
 
-[![ron gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/ron-gif.gif)](http://mormonbuzzz.com/wp-content/uploads/2016/04/ron-gif.gif)
+[![ron gif](/img/ron-gif.gif)](/img/ron-gif.gif)
 
 *sniff* We’re not crying! *sniff* 
 
@@ -58,7 +58,7 @@ We're okay...we're...not okay. *cry*
 
 **6. When President Uchtdorf, visibly touched by Elder Kearon’s remarks, was barely able to conduct the rest of the meeting through his tears.**
 
-[![cryucht](http://mormonbuzzz.com/wp-content/uploads/2016/04/cryucht.jpg)](http://mormonbuzzz.com/wp-content/uploads/2016/04/cryucht.jpg)
+[![cryucht](/img/cryucht.jpg)](/img/cryucht.jpg)
 
 CAN'T. EMOTIONALLY. HANDLE.
 
@@ -66,13 +66,13 @@ CAN'T. EMOTIONALLY. HANDLE.
 
 **7. When President Eyring choked up during his opening comments as he pleaded with us to listen to the prophet; again, when Elder Arnold talked about rescuing those who have gone astray. Pretty much during every single talk. #RealTalk**
 
-[![micheal gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/micheal-gif.gif)](http://mormonbuzzz.com/wp-content/uploads/2016/04/micheal-gif.gif)
+[![micheal gif](/img/micheal-gif.gif)](/img/micheal-gif.gif)
 
 
 
 **8. When Elder Johnson spoke about the death of his daughter and read an excerpt from her journal about the hope the resurrection brings.**
 
-[![pam gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/pam-gif.gif)](http://mormonbuzzz.com/wp-content/uploads/2016/04/pam-gif.gif)
+[![pam gif](/img/pam-gif.gif)](/img/pam-gif.gif)
 
 We're done. Just...so done. *hiccuping sob*
 
@@ -80,13 +80,13 @@ We're done. Just...so done. *hiccuping sob*
 
 **9. When Elder Holland spoke to our souls and asked us if we knew how much Church leaders love us.**
 
-[![han solo gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/han-solo-gif.gif)](http://mormonbuzzz.com/wp-content/uploads/2016/04/han-solo-gif.gif)
+[![han solo gif](/img/han-solo-gif.gif)](/img/han-solo-gif.gif)
 
 
 
 **10. When conference ended far too quickly.  **
 
-[![tennant gif](http://mormonbuzzz.com/wp-content/uploads/2016/04/tennant-gif.gif)](http://mormonbuzzz.com/wp-content/uploads/2016/04/tennant-gif.gif)
+[![tennant gif](/img/tennant-gif.gif)](/img/tennant-gif.gif)
 
 
 

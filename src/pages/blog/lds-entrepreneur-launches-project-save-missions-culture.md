@@ -26,7 +26,7 @@ Thus, WeaveSleeve was born.
 
 Inspiration for the products themselves has roots in Thunnel's mission. Thunnel carried a small coin purse he bought in Guatemala years after his mission. He loved the simple, slim design, the artisanal weave, as well as a reminder of his mission he could carry around wherever he goes.
 
-[caption id="attachment_1876" align="aligncenter" width="456"]![AndyMurse](http://mormonbuzzz.com/wp-content/uploads/2016/08/AndyMurse.jpg) Andy's 'mission' wallets[/caption]
+[caption id="attachment_1876" align="aligncenter" width="456"]![AndyMurse](/img/AndyMurse.jpg) Andy's 'mission' wallets[/caption]
 
 WeaveSleeve's flagship wallet was designed with missionaries in mind. With over 80 flags to choose from, missionaries, RMs and future missionaries alike can carry a little reminder of their mission with them wherever they go.
 

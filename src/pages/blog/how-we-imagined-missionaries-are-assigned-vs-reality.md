@@ -17,7 +17,7 @@ tags:
 
 Whenever I used to imagine how the apostles assign missionaries to missions, I usually imagined something like this:
 
-[![Missionary-Decision-Room_with_logo](http://mormonbuzzz.com/wp-content/uploads/2015/05/Missionary-Decision-Room_with_logo.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/Missionary-Decision-Room_with_logo.jpg)
+[![Missionary-Decision-Room_with_logo](/img/Missionary-Decision-Room_with_logo.jpg)](/img/Missionary-Decision-Room_with_logo.jpg)
 
 Turns out the reality is a lot more mundane. Elder Dallin H Oaks of the Quorum of the Twelve Apostles gave us an insight into the process yesterday with this Facebook post to his page:
 

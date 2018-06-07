@@ -17,7 +17,7 @@ tags:
 
 
 
-[![jediapostles](http://mormonbuzzz.com/wp-content/uploads/2015/05/jediapostles.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/jediapostles.jpg)
+[![jediapostles](/img/jediapostles.jpg)](/img/jediapostles.jpg)
 
 What do the Quorum of the Twelve Apostles and the most powerful group of Jedi in the galaxy have in common? Well, you might be surprised.
 
@@ -47,7 +47,7 @@ The Quorum of the 12 meets in the upper room of the Salt Lake City Temple every 
 
 Coincidence? We think not.
 
-[![templesjed](http://mormonbuzzz.com/wp-content/uploads/2015/05/templesjed.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/templesjed.jpg)
+[![templesjed](/img/templesjed.jpg)](/img/templesjed.jpg)
 
 
 ### 3. Both groups work closely with local and national governments.
@@ -71,7 +71,7 @@ Similarly, members of the Quorum of the Twelve are actively involved in governme
 
 We probably won’t see a member of the Twelve in a holographic, droid-projected message anytime soon, but we do see them posting Facebook statuses and using hashtags today, and that’s a pretty big deal. The apostles like to stay just as connected as the Jedi do, and who knows? Maybe we’ll have holographic general conference in the near future.
 
-[![holographic1](http://mormonbuzzz.com/wp-content/uploads/2015/05/holographic1.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/holographic1.jpg)
+[![holographic1](/img/holographic1.jpg)](/img/holographic1.jpg)
 
 
 ### 5. Both groups are very interested in the youth.
@@ -81,7 +81,7 @@ We probably won’t see a member of the Twelve in a holographic, droid-projected
 
 One thing the Jedi are always concerned about is the spiritual well-being and training of the younglings chosen to become Jedi Knights. Case in point: Anakin. The Twelve Apostles likewise are concerned about strengthening the spiritual well-being of youth in the church. You could almost say that EFY, Duty to God, Seminary, and Personal Progress are latter-day Padawan training programs.
 
-[![deaconspads](http://mormonbuzzz.com/wp-content/uploads/2015/05/deaconspads.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/deaconspads.jpg)
+[![deaconspads](/img/deaconspads.jpg)](/img/deaconspads.jpg)
 
 
 ### 6. For both groups, age is just a number.
@@ -91,7 +91,7 @@ One thing the Jedi are always concerned about is the spiritual well-being and tr
 
 Do you remember that one time in Attack of the Clones when 900-year-old, cane-using Yoda went all little, green fighting machine on Count Dooku? We’re not saying that the apostles are capable of stunts like that, but one look at 93-year-old Elder Perry’s spry walk makes us wonder if they’ve found the same fountain of youth the Jedi have.
 
-[![elder perryold](http://mormonbuzzz.com/wp-content/uploads/2015/05/elder-perryold.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/elder-perryold.jpg)
+[![elder perryold](/img/elder-perryold.jpg)](/img/elder-perryold.jpg)
 
 
 ### 7. Both have twelve members.
@@ -101,7 +101,7 @@ Do you remember that one time in Attack of the Clones when 900-year-old, cane-us
 
 There are twelve apostles and there are twelve members of the Jedi High Council. Need we say more?
 
-[![The-jedi-council-star-wars-2884888-1024-768](http://mormonbuzzz.com/wp-content/uploads/2015/05/The-jedi-council-star-wars-2884888-1024-768.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/The-jedi-council-star-wars-2884888-1024-768.jpg)
+[![The-jedi-council-star-wars-2884888-1024-768](/img/The-jedi-council-star-wars-2884888-1024-768.jpg)](/img/The-jedi-council-star-wars-2884888-1024-768.jpg)
 
 
 ### 8. Both groups are super boss.
@@ -111,7 +111,7 @@ There are twelve apostles and there are twelve members of the Jedi High Council.
 
 Yes. Yes, we can say more.
 
-[![hollandwindu](http://mormonbuzzz.com/wp-content/uploads/2015/05/hollandwindu.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/hollandwindu.jpg)
+[![hollandwindu](/img/hollandwindu.jpg)](/img/hollandwindu.jpg)
 
 
 

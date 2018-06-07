@@ -28,6 +28,6 @@ Despite the fact that this was obviously a calculated attempt to draw the attent
 
 For what it's worth, I absolutely sustain Thomas S. Monson, his counselors, and the Quorum of the Twelve Apostles as prophets, seers, and revelators, and look forward to their messages for us and the rest of the world in today’s sessions of conference.
 
-[![april-2013-general-conference-1124619-mobile](http://mormonbuzzz.com/wp-content/uploads/2015/04/april-2013-general-conference-1124619-mobile.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/april-2013-general-conference-1124619-mobile.jpg)
+[![april-2013-general-conference-1124619-mobile](/img/april-2013-general-conference-1124619-mobile.jpg)](/img/april-2013-general-conference-1124619-mobile.jpg)
 
 ** **

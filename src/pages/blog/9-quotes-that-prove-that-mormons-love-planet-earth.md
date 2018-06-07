@@ -25,7 +25,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Benson](http://mormonbuzzz.com/wp-content/uploads/2015/04/Benson-1024x576.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Benson.jpg)
+[![Benson](/img/Benson-1024x576.jpg)](/img/Benson.jpg)
 
 
 ### 2. Brigham Young
@@ -33,7 +33,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Brigham](http://mormonbuzzz.com/wp-content/uploads/2015/04/Brigham-1024x681.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Brigham.jpg)
+[![Brigham](/img/Brigham-1024x681.jpg)](/img/Brigham.jpg)
 
 
 ### 3. Gordon B. Hinckley
@@ -41,7 +41,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Hinckley](http://mormonbuzzz.com/wp-content/uploads/2015/04/Hinckley-1024x683.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Hinckley.jpg)
+[![Hinckley](/img/Hinckley-1024x683.jpg)](/img/Hinckley.jpg)
 
 
 ### 4. Joseph F. Smith
@@ -49,7 +49,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Joseph-F](http://mormonbuzzz.com/wp-content/uploads/2015/04/Joseph-F-1024x683.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Joseph-F.jpg)
+[![Joseph-F](/img/Joseph-F-1024x683.jpg)](/img/Joseph-F.jpg)
 
 
 ### 5. Spencer W. Kimball
@@ -57,7 +57,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Kimball](http://mormonbuzzz.com/wp-content/uploads/2015/04/Kimball-1024x680.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Kimball.jpg)
+[![Kimball](/img/Kimball-1024x680.jpg)](/img/Kimball.jpg)
 
 
 ### 6. Neal A. Maxwell
@@ -65,7 +65,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Maxwell](http://mormonbuzzz.com/wp-content/uploads/2015/04/Maxwell-1024x678.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Maxwell.jpg)
+[![Maxwell](/img/Maxwell-1024x678.jpg)](/img/Maxwell.jpg)
 
 
 ### 7. Thomas S. Monson
@@ -73,7 +73,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Monson](http://mormonbuzzz.com/wp-content/uploads/2015/04/Monson-1024x683.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Monson.jpg)
+[![Monson](/img/Monson-1024x683.jpg)](/img/Monson.jpg)
 
 
 ### 8. Russell M. Nelson
@@ -81,7 +81,7 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Russell-M](http://mormonbuzzz.com/wp-content/uploads/2015/04/Russell-M-1024x683.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Russell-M.jpg)
+[![Russell-M](/img/Russell-M-1024x683.jpg)](/img/Russell-M.jpg)
 
 
 ### 9. John Taylor
@@ -89,4 +89,4 @@ In honor of Earth Day, here are 9 times that our prophets, seers, and revelators
 
 
 
-[![Taylor](http://mormonbuzzz.com/wp-content/uploads/2015/04/Taylor-1024x604.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/04/Taylor.jpg)
+[![Taylor](/img/Taylor-1024x604.jpg)](/img/Taylor.jpg)

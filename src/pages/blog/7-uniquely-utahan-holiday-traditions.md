@@ -26,7 +26,7 @@ Christmas is next week, and if you're in our neck of the woods, there are some g
 
 This may go without saying, but here in Utah, seeing the [Lights turn on at Temple Square](http://www.templesquare.com/blog/lights-temple-square/) is a long standing tradition for families of all walks of life. Temple Square always has something to offer, whether it be [enjoying a performance at the Tabernacle](https://www.lds.org/bc/content/ldsorg/content/english/pdf/events/Christmas-Booklet-2016.pdf) or [having dinner with a view](http://www.templesquare.com/dining/). But, there’s nothing quite as magical or enchanting as being right on Temple Square as the Holiday season comes to life with thousands of sparkling lights the day after Thanksgiving. The excitement in the air is almost palpable as people from all over the world come to witness this unforgettable night, so be sure to take plenty of pictures! Fortunately, the [lights stay on until New Years Day](http://www.templesquare.com/events/temple-square-lights/), so even if you can’t make it that night, you have the entire month of December to bask in the twinkling beauty of the lights on Temple Square.
 
-[![temple-square](http://mormonbuzzz.com/wp-content/uploads/2016/12/temple-square.jpg)](http://mormonbuzzz.com/wp-content/uploads/2016/12/temple-square.jpg)
+[![temple-square](/img/temple-square.jpg)](/img/temple-square.jpg)
 
 
 ### EVE WinterFest

@@ -20,7 +20,7 @@ Murphy recounted that when she was dating, she would occasionally use Tinder, a 
 
 At the same time Murphy was using the app, Johnson was, too. “A lot of my friends had Tinder, mostly as a joke, so I thought I’d try it,” he said.
 
-[caption id="attachment_2052" align="aligncenter" width="640"][![alyssa and will](http://mormonbuzzz.com/wp-content/uploads/2017/01/alyssa-and-will-1024x683.jpg)](http://mormonbuzzz.com/wp-content/uploads/2017/01/alyssa-and-will.jpg) Photo courtesy Alyssa & William Johnson[/caption]
+[caption id="attachment_2052" align="aligncenter" width="640"][![alyssa and will](/img/alyssa-and-will-1024x683.jpg)](/img/alyssa-and-will.jpg) Photo courtesy Alyssa & William Johnson[/caption]
 
 He was the first to swipe right on Murphy’s photo, and Murphy soon followed.
 
@@ -32,7 +32,7 @@ Take, for example, Natalie Canfield. Soon after returning home from serving an L
 
 Canfield had the desire to date, so with some embarrassment she admits, she created a Tinder profile. She found herself making lots of connections, and Tinder became her success.
 
-[caption id="attachment_2053" align="aligncenter" width="688"][![Photo courtesy: Natalie Canwood](http://mormonbuzzz.com/wp-content/uploads/2017/01/Image-uploaded-from-iOS.jpg)](http://mormonbuzzz.com/wp-content/uploads/2017/01/Image-uploaded-from-iOS.jpg) Photo courtesy: Natalie & Ryan Atherton[/caption]
+[caption id="attachment_2053" align="aligncenter" width="688"][![Photo courtesy: Natalie Canwood](/img/Image-uploaded-from-iOS.jpg)](/img/Image-uploaded-from-iOS.jpg) Photo courtesy: Natalie & Ryan Atherton[/caption]
 
 Canfield would try to find young men who were LDS and reach out 25% of the time. From that point forward she’d try to make the date happen as soon as possible so she could have real conversations with them. She’d suggest public meeting places for a quick lunch or dinner and, she said, “stalk” her dates by asking mutual friends what they knew about them and learning more about them through social media.
 
@@ -56,7 +56,7 @@ Elise Egbert, a blogger who met her husband Matt through Tinder, said, “I quic
 
 Matt Egbert's advice? "Do what makes you feel the most comfortable. Online dating can be a useful thing. We live in a modern age of technology and you're able to meet a lot more people outside of your daily and weekly routines."
 
-[caption id="attachment_2051" align="aligncenter" width="640"][![](http://mormonbuzzz.com/wp-content/uploads/2017/01/elise-egbert-1024x683.jpg)](http://mormonbuzzz.com/wp-content/uploads/2017/01/elise-egbert.jpg) Photo courtesy: Elise & Matt Egbert[/caption]
+[caption id="attachment_2051" align="aligncenter" width="640"][![](/img/elise-egbert-1024x683.jpg)](/img/elise-egbert.jpg) Photo courtesy: Elise & Matt Egbert[/caption]
 
 The Egberts, Murphy, and Canfield agree that dating apps should be treated as close to real life as possible and that LDS singles should apply the same standards they have in real life there, being selective about who they like and focusing more on interacting in person beyond the app.
 

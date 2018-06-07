@@ -15,7 +15,7 @@ tags:
 - DIY
 ---
 
-### [![](http://mormonbuzzz.com/wp-content/uploads/2015/12/6-simple-gifts-for-mormon1.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/12/6-simple-gifts-for-mormon1.jpg)
+### [![](/img/6-simple-gifts-for-mormon1.jpg)](/img/6-simple-gifts-for-mormon1.jpg)
 
 
 
@@ -36,7 +36,7 @@ This is a simple gift idea that will cost you little more than a frame, a sheet 
 
 **Difficulty:** ★☆☆☆☆
 
-[![printables](http://mormonbuzzz.com/wp-content/uploads/2015/12/printables.jpg)](http://www.itsalwaysautumn.com/2013/11/22/lds-articles-of-faith-free-printables.html)
+[![printables](/img/printables.jpg)](http://www.itsalwaysautumn.com/2013/11/22/lds-articles-of-faith-free-printables.html)
 
 _[Source: It's Always Autumn](http://www.itsalwaysautumn.com/2013/11/22/lds-articles-of-faith-free-printables.html)_
 
@@ -57,11 +57,11 @@ The perfect personal touch to gift along with a new set of scriptures is a home
 
 **Difficulty:** ★★★★☆
 
-[![DSC_0714_thumb](http://mormonbuzzz.com/wp-content/uploads/2015/12/DSC_0714_thumb.jpg)](http://lemonsqueezyhome.com/2013/04/scripture-cover-with-divider-flap.html)
+[![DSC_0714_thumb](/img/DSC_0714_thumb.jpg)](http://lemonsqueezyhome.com/2013/04/scripture-cover-with-divider-flap.html)
 
 _[Source: Lemon Squeezy Home](http://lemonsqueezyhome.com/2013/04/scripture-cover-with-divider-flap.html)_
 
-[![Handy-Dandy-Scripture-cover](http://mormonbuzzz.com/wp-content/uploads/2015/12/Handy-Dandy-Scripture-cover.jpg)](http://craftycupboard.net/2012/01/new-scripture-cover/)
+[![Handy-Dandy-Scripture-cover](/img/Handy-Dandy-Scripture-cover.jpg)](http://craftycupboard.net/2012/01/new-scripture-cover/)
 
 _[Source: Crafty Cupboard](http://craftycupboard.net/2012/01/new-scripture-cover/)_
 
@@ -78,7 +78,7 @@ _[Source: Crafty Cupboard](http://craftycupboard.net/2012/01/new-scripture-cover
 
 Here's another simple project. Amy Robinson over at [Craftsy.com](http://www.craftsy.com/blog/2015/02/diy-gold-foil-printing/) has put together an simple guide for do-it-yourself gold foil. This project could easily be adapted to make a modern LDS temple print. If you endeavor to do it yourself you can [download a vector file of the Salt Lake Temple here.](http://vector.me/browse/281294/salt_lake_temple_silhouette) Other temples are available online with a little bit of digging. Instructions for a possibly easier alternative using metallic spray paint instead of foil are available over at [todayscreativelife.com](http://todayscreativelife.com/diy-gold-foil-st-patricks-day-prints/).
 
-[![gold-foil-example](http://mormonbuzzz.com/wp-content/uploads/2015/12/gold-foil-example.jpg)](http://www.craftsy.com/blog/2015/02/diy-gold-foil-printing/)
+[![gold-foil-example](/img/gold-foil-example.jpg)](http://www.craftsy.com/blog/2015/02/diy-gold-foil-printing/)
 
 _[Source: Craftsy.com](http://www.craftsy.com/blog/2015/02/diy-gold-foil-printing/)_
 
@@ -86,7 +86,7 @@ We also found you can buy these pre-made for fairly cheap over at [Collectivity
 
 **Difficulty:** ★★☆☆☆
 
-[![gold temple print](http://mormonbuzzz.com/wp-content/uploads/2015/12/gold-temple-print.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/12/gold-temple-print.jpg)
+[![gold temple print](/img/gold-temple-print.jpg)](/img/gold-temple-print.jpg)
 
 _[Source: Etsy.com](https://www.etsy.com/listing/179830184/salt-lake-city-ut-temple-real-gold-or?ref=shop_home_feat_4)_
 
@@ -105,13 +105,13 @@ _[Source: Etsy.com](https://www.etsy.com/listing/179830184/salt-lake-city-ut-tem
 
 At least half the Mormon population needs a new necktie on occasion, so why not gift them a homemade one and save yourself a bit of cash to boot. We found these detailed instructions over at [purlsoho.com](http://www.purlsoho.com/create/2009/05/21/mollys-sketchbook-fathers-day-tie/) if you want to start completely from scratch. An easier alternative is to buy an old thrift store tie that has the width and length you want, and then unfold it to use as a template to cut your fabric. You can even reuse the inner padding if you're happy with the thickness.
 
-[![homemade-ties](http://mormonbuzzz.com/wp-content/uploads/2015/12/homemade-ties.jpg)](http://www.purlsoho.com/create/2009/05/21/mollys-sketchbook-fathers-day-tie/)
+[![homemade-ties](/img/homemade-ties.jpg)](http://www.purlsoho.com/create/2009/05/21/mollys-sketchbook-fathers-day-tie/)
 
 If you're feeling particularly trendy, here's some additional instructions to colorblock your new homemade tie.
 
 **Difficulty:** ★★★☆☆
 
-[![colorblock](http://mormonbuzzz.com/wp-content/uploads/2015/12/colorblock.jpg)](http://ispydiy.com/guy-diy-colorblock-tie/)
+[![colorblock](/img/colorblock.jpg)](http://ispydiy.com/guy-diy-colorblock-tie/)
 
 _[Source: ispydiy.com](http://ispydiy.com/guy-diy-colorblock-tie/)_
 
@@ -132,7 +132,7 @@ This is the perfect personalized gift for your favorite missionary or YSA. We fo
 
 **Difficulty:** ★☆☆☆☆
 
-[![Journals42](http://mormonbuzzz.com/wp-content/uploads/2015/12/Journals42.jpg)](http://www.lilblueboo.com/2014/12/simple-sharpie-journals-and-matching-gift-wrap.html)
+[![Journals42](/img/Journals42.jpg)](http://www.lilblueboo.com/2014/12/simple-sharpie-journals-and-matching-gift-wrap.html)
 
 _[Source: Ashley Hackshaw](http://www.lilblueboo.com/2014/12/simple-sharpie-journals-and-matching-gift-wrap.html)_
 

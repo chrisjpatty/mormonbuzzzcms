@@ -93,7 +93,7 @@ _via **ftrver **commenting on [ldsliving.com](http://ldsliving.com/story/75616-
 
 
 
-[![elder perryold](http://mormonbuzzz.com/wp-content/uploads/2015/05/elder-perryold.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/05/elder-perryold.jpg)
+[![elder perryold](/img/elder-perryold.jpg)](/img/elder-perryold.jpg)
 
 
 ### 7. When he focused on the one.
