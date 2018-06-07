@@ -33,8 +33,7 @@ They say religion and politics don't mix, but sometimes...
 
 
 
-
-![eyring gothic](http://mormonbuzzz.com/wp-content/uploads/2015/03/eyring-gothic.jpg)
+![eyring gothic](/img/eyring-gothic.jpg)
 
 President Eyring's a lot more chipper than his famous doppelganger, but you get the 'picture.'
 
@@ -43,8 +42,7 @@ President Eyring's a lot more chipper than his famous doppelganger, but you get 
 
 
 
-
-![uchtdorf burger](http://mormonbuzzz.com/wp-content/uploads/2015/03/uchtdorf-burger.jpg)
+![uchtdorf burger](/img/uchtdorf-burger.jpg)
 
 "Silver Fox" of the First Presidency? Meet "Silver Fox" of the Supreme Court.
 
@@ -53,8 +51,7 @@ President Eyring's a lot more chipper than his famous doppelganger, but you get 
 
 
 
-
-![packer rumsfeld](http://mormonbuzzz.com/wp-content/uploads/2015/03/packer-rumsfeld.jpg)
+![packer rumsfeld](/img/packer-rumsfeld.jpg)
 
 President Packer is basically the LDS Church Secretary of Defense, let's be honest.
 
@@ -63,8 +60,7 @@ President Packer is basically the LDS Church Secretary of Defense, let's be hone
 
 
 
-
-![ballard thomas](http://mormonbuzzz.com/wp-content/uploads/2015/03/ballard-thomas.jpg)
+![ballard thomas](/img/ballard-thomas.jpg)
 
 Quality is BOTH of their recipes.
 
@@ -73,8 +69,7 @@ Quality is BOTH of their recipes.
 
 
 
-
-![perry and demlin](http://mormonbuzzz.com/wp-content/uploads/2015/03/perry-and-demlin.jpg)
+![perry and demlin](/img/perry-and-demlin.jpg)
 
 I don't know about you, but _L. Tom Perry and the Last Crusade_ would have made a pretty legit alternative title.
 
@@ -83,8 +78,7 @@ I don't know about you, but _L. Tom Perry and the Last Crusade_ would have made 
 
 
 
-
-![oaks brynner](http://mormonbuzzz.com/wp-content/uploads/2015/03/oaks-brynner.jpg)
+![oaks brynner](/img/oaks-brynner.jpg)
 
 Elder Oaks would have let your people go the first time, Charlton Heston.
 

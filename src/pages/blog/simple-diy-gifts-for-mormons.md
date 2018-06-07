@@ -152,7 +152,6 @@ _[Source: Ashley Hackshaw](http://www.lilblueboo.com/2014/12/simple-sharpie-jour
 We couldn't find any instructions for these, but let's be real, if you can't figure this one out then DIY just might not be your thing.
 
 **Difficulty:** ☆☆☆☆☆
-
-![missionary-stocking](http://mormonbuzzz.com/wp-content/uploads/2015/12/missionary-stocking.jpg)
+![missionary-stocking](/img/missionary-stocking.jpg)
 
 _Source: Unknown_

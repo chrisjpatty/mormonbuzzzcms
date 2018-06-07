@@ -43,8 +43,7 @@ According to President Packer, the power of the office of Apostle doesn’t come
 
 
 
-
-![richard-g-scott-newsbio-early-ga-photo](http://mormonbuzzz.com/wp-content/uploads/2015/09/richard-g-scott-newsbio-early-ga-photo-240x300.jpg)When Richard G. Scott was first called as an apostle in 1988, he had the opportunity to address the church. During their inaugurating speeches, almost all newly-called apostles express how humbled they are to receive this new assignment. Elder Scott, however, didn’t talk about the humbling experience of the call. Instead, he explained the emotional aspect of it. He talked about the struggle he had as he tried to grasp the significance of his new, sacred calling. What was even more impressive is the resolve that he covenanted with the Lord to keep. He then expressed that resolve to the members of the church:
+![richard-g-scott-newsbio-early-ga-photo](/img/richard-g-scott-newsbio-early-ga-photo-240x300.jpg)When Richard G. Scott was first called as an apostle in 1988, he had the opportunity to address the church. During their inaugurating speeches, almost all newly-called apostles express how humbled they are to receive this new assignment. Elder Scott, however, didn’t talk about the humbling experience of the call. Instead, he explained the emotional aspect of it. He talked about the struggle he had as he tried to grasp the significance of his new, sacred calling. What was even more impressive is the resolve that he covenanted with the Lord to keep. He then expressed that resolve to the members of the church:
 
 [block pos=""]“There has distilled within my mind and heart a resolve that I have covenanted with the Lord to obey. It is to live to be worthy to know the will of the Lord and to live to have, with His help, the capacity and courage to carry out that will—and to desire nothing else.”[/block]
 
@@ -58,8 +57,7 @@ Throughout his apostleship, we saw Elder Scott live up to this resolve that he m
 
 ###  
 
-
-![BetterPERRY_hr](http://mormonbuzzz.com/wp-content/uploads/2015/09/BetterPERRY_hr-225x300.jpg)Tom Perry, upon being called as an apostle, also expressed how emotional of an experience it was. He spoke very personally about his childhood, how he looked up to the apostles and memorized each one by name. He went on to explain how his father took it upon himself to teach him a little bit about the life of each apostle. Elder Perry would say that if you asked him today, he could still name each apostle and something about them. As he contemplated how a different father might tell his son about Elder Perry, then the newest member of the twelve, he was shocked. “What could he ever tell about me?” Elder Perry thought. 
+![BetterPERRY_hr](/img/BetterPERRY_hr-225x300.jpg)Tom Perry, upon being called as an apostle, also expressed how emotional of an experience it was. He spoke very personally about his childhood, how he looked up to the apostles and memorized each one by name. He went on to explain how his father took it upon himself to teach him a little bit about the life of each apostle. Elder Perry would say that if you asked him today, he could still name each apostle and something about them. As he contemplated how a different father might tell his son about Elder Perry, then the newest member of the twelve, he was shocked. “What could he ever tell about me?” Elder Perry thought. 
 
 Elder Perry lived an ordinary life that was made extraordinary through the Gospel. While he was overwhelmed by his new assignment he realized that the only way he could magnify this calling is to handing over his whole heart to the Lord. This declaration he gave in his very first General Conference Address as an Apostle showcases his determination;  
 

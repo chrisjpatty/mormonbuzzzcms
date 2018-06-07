@@ -33,8 +33,7 @@ WeaveSleeve's flagship wallet was designed with missionaries in mind. With over 
 Thunnel participated in a construction job helping with the Quetzaltenango Guatemala temple, and in his travels between the states and Guatemala, he worked with women and families to procure weaves. All of the families he has worked with, Thunnel says, are non-members, and the experience of working with them has provided him with a unique missionary opportunity in the country he once served in.
 
 Of his motivations, Thunnel said, “It was always a desire I had to get back to Guatemala and figure out a way that I could make an impact in a country that I owe so much to.” WeaveSleeve is doing just that.
-
-![WeaveSleeve_original](http://mormonbuzzz.com/wp-content/uploads/2016/08/WeaveSleeve_original.jpg)
+![WeaveSleeve_original](/img/WeaveSleeve_original.jpg)
 
 WeaveSleeve just launched a Kickstarter campaign to share their story and help create a demand for this fading art.
 

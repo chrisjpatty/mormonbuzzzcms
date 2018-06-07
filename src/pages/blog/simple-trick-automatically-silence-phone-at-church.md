@@ -30,8 +30,7 @@ The first step is obviously to download the app for your respective device (Sorr
 
 
 
-
-![400x40000bb](http://mormonbuzzz.com/wp-content/uploads/2016/05/400x40000bb.png)
+![400x40000bb](/img/400x40000bb.png)
 
 
 

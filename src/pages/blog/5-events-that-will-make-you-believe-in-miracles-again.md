@@ -34,8 +34,7 @@ Jonny was born with many complications including a twisted foot that needed exte
 [Jonny was honored in 2011](https://www.youtube.com/watch?v=HPOPad4yHpU&feature=youtu.be) by the BYU Football Thursdays Heroes program and was able to spend a practice with his favorite football team. Jonny still continues to defy all odds and is always striving to push his limits. His life is a miracle and this miracle brings joy to his friends and family every day.
 
 
-
-![11421509_10153385030443724_1476766295_n](http://mormonbuzzz.com/wp-content/uploads/2015/06/11421509_10153385030443724_1476766295_n.jpg)
+![11421509_10153385030443724_1476766295_n](/img/11421509_10153385030443724_1476766295_n.jpg)
 
 
 
@@ -46,8 +45,7 @@ Jonny was born with many complications including a twisted foot that needed exte
 
 
 
-
-![Photo via Deseret News 2015](http://mormonbuzzz.com/wp-content/uploads/2015/06/25541157.jpg)
+![Photo via Deseret News 2015](/img/25541157.jpg)
 
 
 _Photo via Deseret News 2015 _

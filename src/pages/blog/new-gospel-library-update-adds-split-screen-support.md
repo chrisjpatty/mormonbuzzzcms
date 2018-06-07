@@ -19,8 +19,7 @@ If you haven't received it yet, get ready for a fresh new update to the [Gospel
 
 ### Split Screen Support
 
-
-![New look for Gospel library on iOS](http://mormonbuzzz.com/wp-content/uploads/2016/12/gospel_library_ios-1024x683.jpg)
+![New look for Gospel library on iOS](/img/gospel_library_ios-1024x683.jpg)
 
 
 

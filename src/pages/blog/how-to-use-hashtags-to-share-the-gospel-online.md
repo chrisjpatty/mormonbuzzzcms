@@ -46,22 +46,18 @@ This will be rendered as just #Book
 This will be rendered as just #Prophet
 
 So why are hashtags important? We'll use Facebook as an example.  Let's say I share the following post on Facebook:
-
-![facebook post without hashtags](http://mormonbuzzz.com/wp-content/uploads/2015/03/facebook-post.png)
+![facebook post without hashtags](/img/facebook-post.png)
 
 And for the sake of this example, let's say my only "friends" on Facebook are Stephanie and Ari:
-
-![facebook connections](http://mormonbuzzz.com/wp-content/uploads/2015/03/hashtags-01.jpg)
+![facebook connections](/img/hashtags-01.jpg)
 
 This means that my post the way it is, will likely only be read by Stephanie and Ari, but both Stephanie and Ari have connections on Facebook that I don't have:
-
-![lots of people not connected to us](http://mormonbuzzz.com/wp-content/uploads/2015/03/hashtags-02.jpg)
+![lots of people not connected to us](/img/hashtags-02.jpg)
 
 In fact, there's a whole world of people out there that I don't directly have the ability to reach _unless_ I use the power of #hashtags!
 
 Here's how it works. Let's say I post the following post again, this time with #Easter and #ShareGoodness (As a note, on Facebook, for hashtags to work correctly, your post privacy settings must be set to "Public")
-
-![facebook post with Mormon hashtags](http://mormonbuzzz.com/wp-content/uploads/2015/03/facebook-post-with-hashtag.png)
+![facebook post with Mormon hashtags](/img/facebook-post-with-hashtag.png)
 
 Now anyone who searches on Facebook for the hashtag #Easter, or #ShareGoodness will be able to see my post. Just by adding a hashtag, my post has the potential to reach far more people than it does without it.
 

@@ -20,8 +20,7 @@ What might have been like if millennials had lived during the time of the pionee
 
 [
 ](http://mormonbuzzz.com/wp-content/uploads/2015/07/image1.jpg)[![image1](http://mormonbuzzz.com/wp-content/uploads/2015/07/image1-300x154.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/07/image1.jpg)
-
-![image3](http://mormonbuzzz.com/wp-content/uploads/2015/07/image3-300x104.jpg)
+![image3](/img/image3-300x104.jpg)
 
 [![image4](http://mormonbuzzz.com/wp-content/uploads/2015/07/image4-300x143.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/07/image5.jpg)
 

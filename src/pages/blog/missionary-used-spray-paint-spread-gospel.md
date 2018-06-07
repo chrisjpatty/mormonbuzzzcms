@@ -25,13 +25,10 @@ Tanner Stephenson is a Utah native who has loved art ever since he was young. Wh
 [![10997473_10205993109892092_6557195053844105014_o (1)](http://mormonbuzzz.com/wp-content/uploads/2015/06/10997473_10205993109892092_6557195053844105014_o-1-221x300.jpg)](http://mormonbuzzz.com/wp-content/uploads/2015/06/10997473_10205993109892092_6557195053844105014_o-1.jpg)
 
 Service opportunities began to present themselves as well. One investigator asked if he could paint wall murals in his restaurant. “P-days became paint days.” Tanner said. It gave him a chance to use his talents to help people and share the gospel.
-
-![10994328_10205913155173274_1779578804323578691_o](http://mormonbuzzz.com/wp-content/uploads/2015/06/10994328_10205913155173274_1779578804323578691_o-300x203.jpg)
-
-![10960069_10205913168653611_5383554182305000826_o](http://mormonbuzzz.com/wp-content/uploads/2015/06/10960069_10205913168653611_5383554182305000826_o-300x243.jpg)
+![10994328_10205913155173274_1779578804323578691_o](/img/10994328_10205913155173274_1779578804323578691_o-300x203.jpg)
+![10960069_10205913168653611_5383554182305000826_o](/img/10960069_10205913168653611_5383554182305000826_o-300x243.jpg)
 
 Since he’s been home he has continued working on his art and sells custom prints of temples, celebrities, and original designs under the name Kuru Arts. He goes to fairs to spray paint and get the word out about his custom t-shirts and home wall murals. He knows that the Lord didn’t give him his love for art for nothing. Tanner hopes to continue to bless and inspire others through his gospel inspired art work.
-
-![10974727_10205913168053596_6257191223325393890_o](http://mormonbuzzz.com/wp-content/uploads/2015/06/10974727_10205913168053596_6257191223325393890_o-300x201.jpg)
+![10974727_10205913168053596_6257191223325393890_o](/img/10974727_10205913168053596_6257191223325393890_o-300x201.jpg)
 
 _If you are interested Tanner's art or in getting a temple print or other design from Kuru Arts check out his website. [www.kuruarts.com](http://www.kuruarts.com/)  _

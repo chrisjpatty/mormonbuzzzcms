@@ -57,7 +57,6 @@ _ _Whether you struggle to keep the Word of Wisdom, or struggle to read scriptu
 _God has a plan for you, even if you don't see it yet._ All you can do is the best that you can, so keep striving to do better and be better. Don't neglect to pour out your heart to God in prayer and during sacrament meeting. Put in the effort, and God will open the door in His due time. Believe that you will some day be able to enter His Holy House, and you will.
 
 [This post originally appeared on the blog "Life of a Mormon Convert." ](http://lifeofamormonconvert.blogspot.com/2016/06/to-one-who-cant-attend-temple.html?m=1)
-
-![vanessa_gunnel](http://mormonbuzzz.com/wp-content/uploads/2016/06/vanessa_gunnel-96x96.jpg)Vannessa Gunnell is a Mormon Convert, blogger ([lifeofamormonconvert.blogspot.com](http://lifeofamormonconvert.blogspot.com/)), and an eating recovery advocate who lives in Utah.
+![vanessa_gunnel](/img/)), and an eating recovery advocate who lives in Utah.
 
 _Read more from Vannessa Gunnell on [her Facebook page. ](https://www.facebook.com/lifeofamormonconvert/?fref=ts)_
