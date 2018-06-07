@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What the Hunger Games Can Teach Us About "Anti-Mormons"
-author: chrisjpatty
+author: Christopher Patty
 date: 2015-03-26T03:26:19.000Z
 description: ''
 ---
