@@ -19,7 +19,7 @@ A few months ago, I became involved in a somewhat heated discussion between frie
 
 
 
-![heart](http://mormonbuzzz.com/wp-content/uploads/2016/03/heart.jpg)
+![heart](/img/heart.jpg)
 
 
 
@@ -31,7 +31,7 @@ The truth is that Jesus Christ, in His mortal ministry, was not a unidimensional
 
 
 
-![feather-and-coins](http://mormonbuzzz.com/wp-content/uploads/2016/03/feather-and-coin.png)
+![feather-and-coins](/img/feather-and-coin.png)
 
 
 
@@ -39,7 +39,7 @@ The Savior did not just turn the tables of the money changers in the temple. He 
 
 
 
-![dna](http://mormonbuzzz.com/wp-content/uploads/2016/03/dna.png)
+![dna](/img/dna.png)
 
 
 
