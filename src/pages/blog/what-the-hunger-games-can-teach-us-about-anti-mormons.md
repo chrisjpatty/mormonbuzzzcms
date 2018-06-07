@@ -1,16 +1,8 @@
 ---
 templateKey: blog-post
-author: chrisjpatty
-description: Hunger games something.
-comments: true
-date: 2015-03-26 03:26:19+00:00
-layout: post
-link: http://mormonbuzzz.com/what-the-hunger-games-can-teach-us-about-anti-mormons/
-slug: what-the-hunger-games-can-teach-us-about-anti-mormons
 title: What the Hunger Games Can Teach Us About "Anti-Mormons"
-wordpress_id: 204
-categories:
-- Opinion
+date: 2015-03-26T03:26:19.000Z
+description: ''
 ---
 
 There's something powerful communicated when we use the word "_enemy_".  Some of the images that come to mind when one thinks of our "_enemies_" might include surging ranks of malevolent armies, or legions of hostile foes.  The branding of nations, groups, or individuals as "_enemies_" can inspire at best, distrust, suspicion, and general disdain, and at worst, hatred, zealotry, and violence.  Some of the most horrific acts of human cruelty have been justified because the targets of these crimes were, "_enemies_".  In short, as with any label, the word _"enemy_" has the power to strip a person's humanity until we see them as nothing but an opposing idea.  It's with this preface that I wish to discuss the common vernacular surrounding those deemed to be, "_enemies_ of the church".
