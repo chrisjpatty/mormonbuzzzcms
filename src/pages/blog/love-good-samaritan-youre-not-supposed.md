@@ -1,19 +1,14 @@
 ---
 templateKey: blog-post
-author: AriannaWRees
-comments: true
-date: 2018-05-15 22:40:41+00:00
-layout: post
-link: http://mormonbuzzz.com/love-good-samaritan-youre-not-supposed/
-slug: love-good-samaritan-youre-not-supposed
 title: Love the Good Samaritan? You're Not Supposed To
-wordpress_id: 2172
-categories:
-- Opinion
+author: AriannaWRees
+date: 2018-05-15T22:40:41.000Z
 tags:
-- Jesus Christ
-- Kindness
-- Scriptures
+  - Jesus Christ
+  - Kindness
+  - Scriptures
+featuredImg: /img/Samaritan_featured.png
+fbLinkImg: /img/Samaritan_facebook.png
 ---
 
 The story of the Good Samaritan is perhaps the most well-known parable the Savior ever taught. A man is robbed and left for dead, two travelers pass by without helping, then a lone Samaritan stops, cleans him up, and carries him to safety. The Samaritan is hailed as a hero, we gushingly tell his story in Sunday school with the moral “serve others,” and that’s the whole story, right? 
