@@ -1,19 +1,14 @@
 ---
 templateKey: blog-post
-author: AriannaWRees
-comments: true
-date: 2018-03-31 17:27:40+00:00
-layout: post
-link: http://mormonbuzzz.com/newly-sustained-apostles-mark-historic-new-chapter-lds-church/
-slug: newly-sustained-apostles-mark-historic-new-chapter-lds-church
 title: Newly Sustained Apostles Mark a Historic New Chapter for the LDS Church
-wordpress_id: 2145
-categories:
-- The Buzzz
+author: AriannaWRees
+date: 2018-03-31T17:27:40.000Z
 tags:
-- apostles
-- General Conference
-- News
+  - apostles
+  - General Conference
+  - News
+featuredImg: /img/gc_new_apostlesfeatured.jpg
+fbLinkImg: /img/gc_new_apostlesfacebook.jpg
 ---
 
 Today President Henry B. Eyring of the Church of Jesus Christ of Latter-Day Saints announced two new apostles during Solemn Assembly, Elder Gerrit W. Gong and Elder Ulisses Soares, who, effective immediately, will take the places vacated by Elder Robert D. Hales and Dallin H. Oaks in the quorum.
