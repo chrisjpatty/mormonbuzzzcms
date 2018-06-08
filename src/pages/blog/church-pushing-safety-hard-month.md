@@ -1,15 +1,9 @@
 ---
 templateKey: blog-post
-author: mormonbuzzz
-comments: true
-date: 2017-06-15 22:56:54+00:00
-layout: post
-link: http://mormonbuzzz.com/church-pushing-safety-hard-month/
-slug: church-pushing-safety-hard-month
 title: Why the Church is Pushing Safety Hard this Month
-wordpress_id: 2119
-categories:
-- The Buzzz
+author: mormonbuzzz
+date: 2017-06-15T22:56:54.000Z
+featuredImg: /img/safety-image.jpg
 ---
 
 Last month, the First Presidency [released a statement ](https://www.lds.org/callings/church-safety-and-health/first-presidency-letter?lang=eng)emphasizing safety in Church sponsored activities. The letter calls for Church leaders to only plan and approve activities that present minimal risk for injury or illness as to preserve the safety of participants and protect the Church from significant liability. This statement was released in conjunction with [the announcement ](https://www.lds.org/bc/content/shared/content/english/pdf/callings/young-men/14920_000_letter.pdf?lang=eng)that as of 2018, the Church will no longer be involved with the Venturing and Varsity scouting programs. As the longest standing charter organization for the BSA, the Church has always been [closely tied to scouting](http://mormonbuzzz.com/the-church-wasnt-prepared-to-leave-behind-scouting/). While the change doesn’t indicate a complete severance of the Church and BSA (the Church will continue to sponsor the Cub Scout and Boy Scout programs for boys 8-14), it does mean Young Men leaders will have to step up to the plate, particularly when it comes to risk management. 
