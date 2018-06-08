@@ -20,7 +20,7 @@ collections:
       - {label: "Description", name: "description", widget: "text", "required": false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", "required": false}
-      - {label: "Featured Image", name: "featuredImg", width: "list", "required": false}
+      - {label: "Featured Image", name: "featuredImg", widget: "image", width: "list", "required": false}
       - {label: "Facebook Link Image (Defaults to featured image)", name: "fbLinkImg", widget: "image", "required": false}
 
   - name: "pages"
