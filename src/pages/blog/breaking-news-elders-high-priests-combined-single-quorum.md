@@ -1,15 +1,10 @@
 ---
 templateKey: blog-post
-author: chrisjpatty
-comments: true
-date: 2018-04-01 00:55:38+00:00
-layout: post
-link: http://mormonbuzzz.com/breaking-news-elders-high-priests-combined-single-quorum/
-slug: breaking-news-elders-high-priests-combined-single-quorum
 title: 'Breaking News: Elders and High Priests to be Combined into a Single Quorum'
-wordpress_id: 2148
-categories:
-- The Buzzz
+author: chrisjpatty
+date: 2018-04-01T00:55:38.000Z
+featuredImg: /img/combined_quorumsfeatured.jpg
+fbLinkImg: /img/combined_quorumsfacebook.png
 ---
 
 During the Priesthood session of the 188th annual general conference of The Church of Jesus Christ of Latter-Day Saints, newly sustained President Russell M. Nelson announced a surprise restructuring of ward and branch priesthood quorums; Elders and High Priest quorums are to be combined into a single quorum, and will be referred to as the "Elders Quorum".
