@@ -1,18 +1,13 @@
 ---
 templateKey: blog-post
+title: 'The Relief Society Needs Political Activists, Too'
 author: stephanie.judth
-comments: true
-date: 2017-04-28 05:05:18+00:00
-layout: post
-link: http://mormonbuzzz.com/relief-society-needs-political-activists/
-slug: relief-society-needs-political-activists
-title: The Relief Society Needs Political Activists, Too
-wordpress_id: 2091
-categories:
-- The Buzzz
+date: 2017-04-28T05:05:18.000Z
 tags:
-- Relief Society
-- women
+  - Relief Society
+  - women
+featuredImg: /img/march_featured-80.jpg
+fbLinkImg: /img/march_facebook-80.jpg
 ---
 
 On January 21st, 2017, Utah streets and canyon passes were covered in snow, making traveling hazardous to say the least. Nevertheless, when word broke out of a march being organized in Park City, thousands of women grabbed their picket signs and braved the storm for hours. As I scrolled through my news feed, I saw picture after picture of friends and acquaintances drenched and smiling, happy to have joined in solidarity with the millions of women gathering in peaceful protest that day. Though I didn’t participate, I couldn’t help feeling that solidarity myself as I saw fellow Relief Society sisters fighting for their beliefs. But then the next words that came up on my newsfeed replaced that solidarity with concern. Another deeply respected Relief Society sister in my life expressed her disgust for the demonstration after some attendees reproached those not in attendance. She commented on the events of the day on her Facebook by stating, “I don’t need anyone marching for _me_.” I was amazed that these two groups of Latter-day Saint women, who both cling to the same Gospel, could have such distinct and differing beliefs on a social standpoint. I was heartbroken that it would inspire such biting remarks because it is those contrasting opinions that cultivate the strength of Relief Society. 
