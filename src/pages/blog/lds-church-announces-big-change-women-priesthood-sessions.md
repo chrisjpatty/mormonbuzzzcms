@@ -1,17 +1,11 @@
 ---
 templateKey: blog-post
-author: mormonbuzzz
-comments: true
-date: 2017-10-27 21:56:04+00:00
-layout: post
-link: http://mormonbuzzz.com/lds-church-announces-big-change-women-priesthood-sessions/
-slug: lds-church-announces-big-change-women-priesthood-sessions
 title: LDS Church Announces Big Change to Women & Priesthood Sessions
-wordpress_id: 2136
-categories:
-- The Buzzz
+author: mormonbuzzz
+date: 2017-10-27T21:56:04.000Z
 tags:
-- General Conference
+  - General Conference
+featuredImg: /img/lds-conffff.jpg
 ---
 
 The LDS Church announced today that starting next April, there will no longer be twice-yearly priesthood and general women meetings held during conference. Instead, each meeting will occur once a year. The Church's statement on the matter is as follows:
