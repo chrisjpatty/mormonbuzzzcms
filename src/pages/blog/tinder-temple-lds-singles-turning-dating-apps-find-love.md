@@ -1,15 +1,10 @@
 ---
 templateKey: blog-post
-author: AriannaWRees
-comments: true
-date: 2017-02-01 01:53:10+00:00
-layout: post
-link: http://mormonbuzzz.com/tinder-temple-lds-singles-turning-dating-apps-find-love/
-slug: tinder-temple-lds-singles-turning-dating-apps-find-love
 title: 'From Tinder to Temple: LDS Singles Turn to Dating Apps to Find Love'
-wordpress_id: 2047
-categories:
-- Opinion
+author: AriannaWRees
+date: 2017-02-01T01:53:10.000Z
+featuredImg: /img/featured_tinder_temple.png
+fbLinkImg: /img/facebook_tinder_temple.png
 ---
 
 When Alyssa Murphy met William Johnson in their young single adult ward, she was quickly attracted to his testimony and ambition. Johnson found himself drawn to Murphy’s bubbly personality. She was unlike any other girl he’d ever met. Neither of them had the courage to say a word about it.
