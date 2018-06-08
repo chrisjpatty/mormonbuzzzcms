@@ -1,17 +1,12 @@
 ---
 templateKey: blog-post
+title: 'Millennials Can''t Seem to Catch a Break, Except in Mormonism'
 author: AriannaWRees
-comments: true
-date: 2017-05-10 01:38:55+00:00
-layout: post
-link: http://mormonbuzzz.com/millennials-cant-seem-to-catch-a-break-except-in-mormonism/
-slug: millennials-cant-seem-to-catch-a-break-except-in-mormonism
-title: Millennials Can't Seem to Catch a Break, Except in Mormonism
-wordpress_id: 2099
-categories:
-- Opinion
+date: 2017-05-10T01:38:55.000Z
 tags:
-- YSA
+  - YSA
+featuredImg: /img/millennials_featured.png
+fbLinkImg: /img/millennials_facebook.png
 ---
 
 “You are noble and great, chosen before you were born!”
