@@ -1,18 +1,12 @@
 ---
 templateKey: blog-post
-author: mormonbuzzz
-comments: true
-date: 2018-05-09 01:36:53+00:00
-layout: post
-link: http://mormonbuzzz.com/lds-church-end-boy-scouts-personal-progress-programs-2020/
-slug: lds-church-end-boy-scouts-personal-progress-programs-2020
 title: LDS Church to End Boy Scouts and Personal Progress Programs by 2020
-wordpress_id: 2164
-categories:
-- The Buzzz
+author: mormonbuzzz
+date: 2018-05-09T01:36:53.000Z
 tags:
-- boy scouts
-- personal progress
+  - boy scouts
+  - personal progress
+featuredImg: /img/youth-1.jpg
 ---
 
 In a press release published on Mormon Newsroom Tuesday, May 8th, the LDS Church announced plans to end its relationship with all Boy Scouts programs and restructure youth activities by 2020.
