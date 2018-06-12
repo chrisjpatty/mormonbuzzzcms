@@ -1,10 +1,18 @@
+var autoprefixer = require('autoprefixer');
+
 module.exports = {
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-postcss-sass',
+      options: {
+        postCssPlugins: [autoprefixer()],
+        precision: 8
+      }
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
